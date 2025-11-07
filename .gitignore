@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# --- Archivos de Colab y Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# --- Archivos generados por el equilibrador ---
+*.xml
+*.pdf
+*.log
