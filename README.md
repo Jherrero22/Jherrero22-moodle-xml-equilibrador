@@ -16,5 +16,4 @@ pip install beautifulsoup4 lxml
 
 🚀 Abrir directamente en Google Colab
 
-
-— hasta aquí —
+<a href="https://colab.research.google.com/github/jherrero22/moodle-xml-equilibrador/blob/main/notebook/Equilibrar_Moodle_XML.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"> </a>
