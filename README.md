@@ -7,6 +7,8 @@ Herramienta para **equilibrar la longitud** de opciones en preguntas *multichoic
 - Exporta un **XML** listo para Moodle y (en Colab) un **PDF** de revisión.
 
 ## Uso rápido (local / CLI)
+## Uso rápido (local / CLI)
+
 Requisitos:
 ```bash
 pip install beautifulsoup4 lxml
