@@ -10,5 +10,3 @@ Herramienta para **equilibrar la longitud** de opciones en preguntas *multichoic
 Requisitos:
 ```bash
 pip install beautifulsoup4 lxml
-## 🚀 Abrir directamente en Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<jherrero22>/<moodle-xml-equilibrador>/blob/main/notebook/Equilibrar_Moodle_XML.ipynb)
